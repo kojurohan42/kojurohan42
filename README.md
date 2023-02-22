@@ -24,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kojurohan42&show_icons=true&locale=en" alt="kojurohan42" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kojurohan42&" alt="kojurohan42" /></p>
+![Snake animation](https://github.com/kojurohan42/kojurohan42/blob/output/github-contribution-grid-snake.svg)
