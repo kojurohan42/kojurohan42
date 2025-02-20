@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kojurohan42&label=Profile%20views&color=0e75b6&style=flat" alt="kojurohan42" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning and Flutter**
+- 🌱 I’m currently learning **Game Development and Flutter**
 
 - 📫 How to reach me **kojurohan42@gmail.com**
 
